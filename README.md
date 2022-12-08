@@ -1,4 +1,4 @@
-## Ola! Eu sou a Lucas
+## Ola! Eu sou o Lucas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lferreirasm&show_icons=true&theme=dracula)
 <div style="display: inline_block"><br>
   <a href="https://github.com/lferreirasm">
