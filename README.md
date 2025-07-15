@@ -1,19 +1,59 @@
-## Ola! Eu sou o Lucas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lferreirasm&show_icons=true&theme=dracula)
-<div style="display: inline_block"><br>
-  <a href="https://github.com/lferreirasm">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Lucas-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
-  <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-  <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="Lucas-Rasp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
-  <img align="center" alt="Lucas-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
-  <img align="center" alt="Lucas-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  
-  ##
- 
-  ![Snake animation](https://github.com/lferreirasm/lferreirasm/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+# Olá, eu sou o Lucas Ferreira! 👋
+
+<p align="left">
+  Sou um profissional focado em <strong>DevOps</strong> e <strong>Infraestrutura de TI</strong>, apaixonado por automação, otimização de sistemas e construção de ambientes resilientes. Minha experiência abrange desde a administração de servidores Linux e Windows até a orquestração de contêineres com Docker e a gestão avançada de redes.
+</p>
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/pt-br/windows-server" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows server" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mikrotik.com/" target="_blank" rel="noreferrer">
+    <!-- Como não há um ícone padrão para MikroTik, podemos usar um genérico de rede ou apenas texto -->
+    <img src="https://img.icons8.com/ios-filled/50/000000/network.png" alt="network" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lferreirasm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lferreirasm&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+### 🐍 Minha Contribuição no GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lferreirasm/lferreirasm/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+---
+
+### 📫 Como me encontrar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/seu-usuario-linkedin/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="seu-linkedin" height="30" width="40" />
+  </a>
+  <!-- Adicione outros links de contato se desejar -->
+</p>
