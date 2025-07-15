@@ -33,6 +33,12 @@
   <a href="https://mikrotik.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/mikrotik/6633FF" alt="MikroTik" width="40" height="40"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
   </a>
@@ -44,7 +50,6 @@
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lferreirasm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lferreirasm&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
 
 ---
@@ -52,5 +57,9 @@
 ### 🐍 Minha Contribuição no GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lferreirasm/lferreirasm/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lferreirasm/lferreirasm/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lferreirasm/lferreirasm/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lferreirasm/lferreirasm/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
