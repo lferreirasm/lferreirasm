@@ -15,15 +15,6 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40"/> 
   </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> 
-  </a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
-  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.simpleicons.org/linux/FFFFFF" alt="Linux" width="40" height="40"/> 
   </a>
