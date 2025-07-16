@@ -4,8 +4,6 @@
   Sou um profissional focado em <strong>DevOps</strong> e <strong>Infraestrutura de TI</strong>, apaixonado por automação, otimização de sistemas e construção de ambientes resilientes. Minha experiência abrange desde a administração de servidores Linux e Windows até a orquestração de contêineres com Docker e a gestão avançada de redes.
 </p>
 
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
@@ -22,7 +20,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="40" height="40"/>
   </a>
   <a href="https://mikrotik.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/mikrotik/6633FF" alt="MikroTik" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/mikrotik/FFFFFF" alt="MikroTik" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -43,25 +41,21 @@
     <img src="https://cdn.simpleicons.org/raspberrypi/A22846" alt="Raspberry Pi" width="40" height="40"/> 
   </a>
   <a href="https://traefik.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/traefik/24A1ED" alt="Traefik" width="40" height="40"/> 
+    <img src="https://cdn.simpleicons.org/traefikproxy/FFFFFF" alt="Traefik" width="40" height="40"/> 
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> 
+    <img src="https://cdn.simpleicons.org/bootstrap/FFFFFF" alt="Bootstrap" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> 
   </a>
 </p>
 
----
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lferreirasm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
-
----
 
 ### 🐍 Minha Contribuição no GitHub
 
