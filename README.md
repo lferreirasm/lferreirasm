@@ -4,6 +4,8 @@
   Sou um profissional focado em <strong>DevOps</strong> e <strong>Infraestrutura de TI</strong>, apaixonado por automação, otimização de sistemas e construção de ambientes resilientes. Minha experiência abrange desde a administração de servidores Linux e Windows até a orquestração de contêineres com Docker e a gestão avançada de redes.
 </p>
 
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
@@ -32,7 +34,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
   </a>
   <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/zabbix/FFFFFF" alt="Zabbix" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zabbix/zabbix-original.svg" alt="Zabbix" width="40" height="40"/> 
   </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana" width="40" height="40"/> 
@@ -56,6 +58,8 @@
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lferreirasm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
+
+---
 
 ### 🐍 Minha Contribuição no GitHub
 
