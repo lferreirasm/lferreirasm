@@ -33,6 +33,24 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
   </a>
+  <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/zabbix/FFFFFF" alt="Zabbix" width="40" height="40"/> 
+  </a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana" width="40" height="40"/> 
+  </a>
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/raspberrypi/A22846" alt="Raspberry Pi" width="40" height="40"/> 
+  </a>
+  <a href="https://traefik.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/traefik/24A1ED" alt="Traefik" width="40" height="40"/> 
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> 
+  </a>
 </p>
 
 ---
